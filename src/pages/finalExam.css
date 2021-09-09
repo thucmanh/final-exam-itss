@@ -1,0 +1,19 @@
+.exam-container {
+    width: 80%;
+    margin: auto;
+    line-height: 30px;
+}
+
+.exam-navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.exam-navigation__prev {
+    border: black 1px solid;
+}
+
+.exam-navigation__next {
+    border: black 1px solid;
+}
